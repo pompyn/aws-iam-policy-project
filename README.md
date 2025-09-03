@@ -33,7 +33,7 @@ It includes the full process of:
    ![Simulator Allowed](images/simulator-allowed.png)
 
 4. **Policy Simulator – Denied (`ec2:StartInstances`)**  
-   ![Simulator Denied](images/simulator-start-denied.png)
+   ![Simulator Denied](images/simulator-denied.png)
 
 
 ---
