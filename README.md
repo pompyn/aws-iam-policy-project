@@ -30,7 +30,7 @@ It includes the full process of:
    ![Policy JSON](images/policy-json.png)
 
 3. **Policy Simulator – Allowed (`ec2:DescribeInstances`)**  
-   ![Simulator Allowed](images/simulator-describe-allowed.png)
+   ![Simulator Allowed](images/simulator-allowed.png)
 
 4. **Policy Simulator – Denied (`ec2:StartInstances`)**  
    ![Simulator Denied](images/simulator-start-denied.png)
